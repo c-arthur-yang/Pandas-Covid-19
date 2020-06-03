@@ -1,1 +1,1 @@
-# Pandas-Covid-19
+Since the outbreak of Covid-19 pandemic, it has wreaked havoc on the global economy and our daily life. The WHO and local government update new cases and death cases everyday, we can visualize the data while waiting for the vaccine.
